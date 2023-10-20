@@ -6,6 +6,6 @@ Much more could be said but for now while we are in preparation for 2024 so we w
 
 Florian Eisen : `Founder` & `Researcher` of _les Couleurs des Tropiques_
 
-!(img/lcdt visual format.png)
+![bg](img/lcdt visual format.png)
 
  
