@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Florian Eisen> -- <Founder> -- <twitter>
 
 # THANKS
 
-    <name>
+    <Georgia Freem>
 
 # TECHNOLOGY COLOPHON
 
