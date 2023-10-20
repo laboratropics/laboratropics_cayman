@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme
 title: les Couleurs des Tropiques
 description: We Question Nature's Answers
-show_downloads: true
+show_downloads: false
 google_analytics: false
