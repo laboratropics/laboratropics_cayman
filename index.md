@@ -4,8 +4,8 @@ And we are here to work on the level of atomic bonds, peptidal chains and genomi
 
 Much more could be said but for now while we are in preparation for 2024 so we would rather show results when they are practical to you. So meanwhile make yourself comfortable for healthier times & take care.
 
-Florian Eisen : `Founder` & `Researcher` of _les Couleurs des Tropiques_
+Florian Eisen : `Founder` & `Researcher` of _Laboratropics_
 
-![bg](/img/lcdt%20visual%20format.png)
+![bg](/img/laboratropics_logoBanner.png)
 
  
