@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /who%we%are/
+permalink: /about/
 title: Laboratropics | Who We Are
 ---
 
