@@ -1,5 +1,7 @@
 ---
 layout: default
+permalink: /archive/
+title: The Archive
 ---
 
 **The Archive is being built**
