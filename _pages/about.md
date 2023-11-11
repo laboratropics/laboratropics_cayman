@@ -1,5 +1,7 @@
 ---
 layout: default
+permalink: /who%we%are/
+title: Laboratropics | Who We Are
 ---
 
 **Our mission with this organisation is far from simple, as any visionary will tell you, building the future takes time.**
