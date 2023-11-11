@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /archive/
-title: The Archive
+permalink: /the%archive/
+title: Laboratropics | The Archive
 ---
 
 **The Archive is being built**
