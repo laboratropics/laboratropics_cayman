@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /the%archive/
+permalink: /archive/
 title: Laboratropics | The Archive
 ---
 
