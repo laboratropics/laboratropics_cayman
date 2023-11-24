@@ -4,7 +4,7 @@ permalink: /archive/
 title: Laboratropics | Media Archive
 ---
 
-# Archive of Media produced at Laboratropics
+# Archive of media produced by our research
 
 **The Archive is being built, please come back soon...**
 
