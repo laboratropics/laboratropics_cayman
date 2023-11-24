@@ -17,4 +17,5 @@ Much more could be said but for now while we are in preparation for 2024 so we w
 
 Florian Eisen : Founder & Researcher of `Laboratropics`
 
-![bg](/img/laboratropics_logoBanner.png)
+![bg](/img/pcPano.jpg)
+Palm Cove at 7am
