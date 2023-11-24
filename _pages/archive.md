@@ -1,9 +1,11 @@
 ---
 layout: default
 permalink: /archive/
-title: Laboratropics | The Archive
+title: Laboratropics | Media Archive
 ---
 
-**The Archive is being built**
+# Archive of Media produced at Laboratropics
 
-Check out this pretty flower in the meantime:
+**The Archive is being built, please come back soon...**
+
+Check out our favourite archive of the region in the meantime: [North Queensland Plants](http://northqueenslandplants.com/)
