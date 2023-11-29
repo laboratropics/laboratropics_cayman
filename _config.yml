@@ -7,3 +7,11 @@ show_downloads: false
 google_analytics: false
 include: 
 - "_pages"
+
+header_pages:
+  - about.md
+  - research.md
+  - products.md
+  - archive.md
+  - contact.md
+
